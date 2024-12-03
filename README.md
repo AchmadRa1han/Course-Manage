@@ -1,4 +1,4 @@
-To present the SQL schema in a clean and organized manner in your `README.md` file on GitHub, you can use Markdown formatting. Here’s how you can structure it:
+After Running Migration, pls run this sql scheme on heidisql or workbench (any sql editor will also work)
 
 ```markdown
 # Database Schema
