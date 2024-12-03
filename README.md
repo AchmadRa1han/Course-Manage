@@ -62,13 +62,5 @@ CREATE TABLE content (
 
 - Ensure that the `users` table exists before creating these tables, as foreign key constraints reference it.
 - The `teacher_id` in the `course` table can be set to `NULL` if the teacher is deleted.
-- The `role` in the `enrollment` table can be either `teacher` or `student`.
 ```
 
-### Explanation of the Markdown Structure
-
-- **Headings**: Use `#` for the main title and `##` for subheadings to create a clear hierarchy.
-- **Code Blocks**: Use triple backticks (```) to create code blocks for SQL statements, which makes them easy to read and copy.
-- **Comments**: Inline comments in the SQL code help explain the purpose of certain fields.
-
-This format will make your `README.md` file look professional and organized on GitHub. If you have any further questions or need additional assistance, feel free to ask!
